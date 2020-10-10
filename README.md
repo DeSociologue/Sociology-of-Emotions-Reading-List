@@ -22,7 +22,11 @@
 
 - Kemper, Theodore D., eds. [_Research Agendas in the Sociology of Emotions_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/02%20general%20reseach%20about%20emotion/Research%20Agendas%20in%20the%20Sociology%20of%20Emotions.pdf). Suny Press, 1990.
 
+Bericat, Eduardo. "The Sociology of Emotions: Four Decades of Progress." _Current Sociology_ 64, no. 3 (2016): 491-513.
+
 ## Emotions and Physical
+
+- James, William. _"What is an Emotion?_" Mind 9, no. 34 (1884): 188-205.
 
 - Schachter, Stanley, and Jerome Singer. "[Cognitive, Social, and Physiological Determinants of Emotional State](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/03%20emotion%20and%20physical/Cognitive%2C%20social%2C%20and%20physiological%20determinants%20of%20emotional%20state.pdf)," _Psychological Review_ 69, no. 5 (1962): 379.
 
@@ -37,6 +41,8 @@
 - von Scheve, Christian, and Mikko Salmella, eds. [_Collective Emotions: Perspectives from Psychology, Philosophy, and Sociology_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/05%20emotions%20and%20social%20movement/Collective%20Emotions-%20Perspectives%20from%20psychology%2C%20philosophy%2C%20and%20sociology.pdf). Oxford University Press, 2014.
 
 - Flam, Helena, and Debra King. [_Emotions and Social Movements_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/05%20emotions%20and%20social%20movement/Emotions%20and%20social%20movements.pdf). Routledge, 2005.
+
+- Jasper, James M. "Emotions and Social Movements: Twenty Years of Theory and Research." _Annual Review of Sociology_ 37 (2011): 285-303.
 
 - Goodwin, Jeff. "[The Libidinal Constitution of a High-Risk Social Movement: Affectual Ties and Solidarity in the Huk Rebellion, 1946 to 1954](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/05%20emotions%20and%20social%20movement/The%20libidinal%20constitution%20of%20a%20high-risk%20social%20movement-%20Affectual%20ties%20and%20solidarity%20in%20the%20Huk%20rebellion%2C%201946%20to%201954.pdf)," _American Sociological Review_ (1997): 53-69.
 
@@ -107,6 +113,8 @@
 
 - Hochschild, Arlie Russell. [_The Managed Heart: Commercialization of Human Feeling_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/11%20emotional%20labour/The%20managed%20heart%20-%20commercialization%20of%20human%20feeling.pdf). University of California Press, 2012.
 
+Wharton, Amy S. "The Sociology of Emotional Labor." _Annual Review of Sociology_ 35 (2009): 147-165.
+
 - Abbott, Andrew. "[The Sociology of Work and Occupations](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/11%20emotional%20labour/%22The%20sociology%20of%20work%20and%20occupations.pdf)," _Annual Review of Sociology_ 19, no. 1 (1993): 187-209.
 
 ## Emotion Management
@@ -175,4 +183,6 @@
 
 - Cooley, Charles Horton. [_Human Nature and the Social Order_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/23%20emotions%20in%20social%20constructionism/Human%20nature%20and%20the%20social%20order%20.pdf). Nabu Press, 2010.
 
-- Flaherty, Michael G. "[The derivation of emotional experience from the social construction of reality](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/23%20emotions%20in%20social%20constructionism/The%20derivation%20of%20emotional%20experience%20from%20the%20social%20construction%20of%20reality.pdf)," _Studies in Symbolic Interaction_ 13 (1992): 167-182.
+Goffman, Erving. _The Presentation of Self in Everyday Life_. Anchor Books, 1959.
+
+- Flaherty, Michael G. "[The Derivation of Emotional Experience from the Social Construction of Reality](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/23%20emotions%20in%20social%20constructionism/The%20derivation%20of%20emotional%20experience%20from%20the%20social%20construction%20of%20reality.pdf)," _Studies in Symbolic Interaction_ 13 (1992): 167-182.
