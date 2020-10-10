@@ -4,7 +4,7 @@
 
 - Smith, Adam. [_The Theory of Moral Sentiments_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/01%20classical%20studies%20of%20emotions/The%20Theory%20of%20Moral%20Sentiments.epub). Penguin, 2010.
 
-- Ferguson, Adam. [_Ferguson: An Essay on the History of Civil Society](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/01%20classical%20studies%20of%20emotions/Ferguson-%20An%20Essay%20on%20the%20History%20of%20Civil%20Society.pdf). Cambridge University Press, 1996.
+- Ferguson, Adam. [_Ferguson: An Essay on the History of Civil Society_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/01%20classical%20studies%20of%20emotions/Ferguson-%20An%20Essay%20on%20the%20History%20of%20Civil%20Society.pdf). Cambridge University Press, 1996.
 
 - Darwin, Charles, and Phillip Prodger. [_The Expression of the Emotions in Man and Animals_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/01%20classical%20studies%20of%20emotions/The%20Expression%20of%20the%20Emotions%20in%20Man%20and%20Animals.pdf). Cambridge University Press, 2009.
 
