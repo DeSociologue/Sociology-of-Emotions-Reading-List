@@ -155,7 +155,7 @@
 
 ## Emotions and Violence
 
-- Armenta, Martha Frías, and Victor Corral-Verdugo. [_Bio\-Psycho\-Social Perspectives on Interpersonal Violence_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/19%20emotions%20and%20violence/Bio-Psycho-Social%20Perspectives%20on%20Interpersonal%20Violence%20(Psychology%20of%20Emotions%2C%20Motivations%20and%20Actions.pdf). Nova Science Publishers, 2010.
+- Armenta, Martha Frías, and Victor Corral-Verdugo. [_Bio\-Psycho\-Social Perspectives on Interpersonal Violence_](https://github.com/DeSociologue/Sociology-of-Emotions-Reading-List/raw/master/19%20emotions%20and%20violence/Bio-Psycho-Social%20Perspectives%20on%20Interpersonal%20Violence%20\(Psychology%20of%20Emotions%2C%20Motivations%20and%20Actions.pdf). Nova Science Publishers, 2010.
 
 ## Emotions and War
 
